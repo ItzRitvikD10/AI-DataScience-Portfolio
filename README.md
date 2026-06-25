@@ -3,7 +3,7 @@
 Welcome to my portfolio! I am an incoming high school sophomore based in New Jersey with intermediate proficiency in Python. This repository showcases my ability to apply data engineering, machine learning pipelines, and algorithmic fairness concepts to solve practical, real-world problems.
 
 ##  Tech Stack & Skills
-*   **Languages:** Python (Intermediate)
+*   **Languages:** Python (Intermediate), Javascript (Basic)
 *   **Libraries:** NumPy, Pandas, Scikit-learn, OpenCV (cv2), Matplotlib
 *   **Environments:** Google Colab, Jupyter Notebooks, Git/GitHub
 *   **Focus Areas:** Data Preprocessing, Predictive Modeling, Machine Learning Ethics
@@ -18,7 +18,7 @@ Welcome to my portfolio! I am an incoming high school sophomore based in New Jer
     *   Programmatically handled directory file management using the Python `os` module.
     *   Leveraged **OpenCV** to smoothly resize uneven image files to a uniform $224 \times 224$ dimension.
     *   Applied **CLAHE** (Contrast Limited Adaptive Histogram Equalization) to mathematically correct poor lighting conditions across datasets.
-*   **File:** `Day_1_Image_Cleaning.ipynb`
+*   **File:** `Image_Cleaning_&_Resizing.ipynb`
 
 ---
 
