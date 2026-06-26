@@ -12,13 +12,21 @@ Welcome to my portfolio! I am an incoming high school sophomore based in New Jer
 
 ## Projects Index
 
-### Project #1: Automated Image Preprocessing & Resizing Pipeline
-*   **Objective:** Built an automated data engineering pipeline to clean and normalize raw image datasets for downstream computer vision/AI training.
+### Project #1: Image Cleaning and Resizing Pipeline
+*   **Objective:** Built an automated pipeline to clean and normalize raw image datasets for downstream computer vision/AI training.
 *   **Key Implementations:** 
     *   Programmatically handled directory file management using the Python `os` module.
     *   Leveraged **OpenCV** to smoothly resize uneven image files to a uniform $224 \times 224$ dimension.
     *   Applied **CLAHE** (Contrast Limited Adaptive Histogram Equalization) to mathematically correct poor lighting conditions across datasets.
 *   **File:** `Image_Cleaning_&_Resizing.ipynb`
+
+### Project #2: Algorithmic Bias Auditor for Financial AI Models
+*   **Objective:** Created a machine learning simulation to audit structural bias within automated credit/loan underwriting models.
+*   **Key Implementations:**
+    *   Synthesized a multi-variable dataframe using **Pandas** and **NumPy** to isolate specific historical biases.
+    *   Trained an analytical Decision Tree Classifier using **Scikit-learn** to output approval predictions.
+    *   Calculated the mathematical **Disparate Impact Ratio** to audit the AI model and ensure it meets statistical fairness thresholds.
+*   **File:** `Loan_Approval_Algorithmic_Bias.ipynb`
 
 ---
 
