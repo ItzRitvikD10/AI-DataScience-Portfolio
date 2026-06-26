@@ -28,6 +28,15 @@ Welcome to my portfolio! I am an incoming high school sophomore based in New Jer
     *   Calculated the mathematical **Disparate Impact Ratio** to audit the AI model and ensure it meets statistical fairness thresholds.
 *   **File:** `Loan_Approval_Algorithmic_Bias.ipynb`
 
+### Project #3: Public Health & Air Quality Regression Model
+*   **Objective:** Engineered a predictive regression model to forecast local hospital respiratory admissions based on atmospheric and environmental metrics.
+*   **Key Implementations:**
+    *   Cleaned and split daily data metrics (AQI, temperature, and humidity) into standard machine learning training and testing sets.
+    *   Utilized **Scikit-learn Linear Regression** to map trends and evaluate accuracy via $R^2$ scoring models.
+    *   Generated a professional scatter visual using **Matplotlib** comparing true hospital results against the AI predictions.
+*   **File:** `Air_Pollution_Hospital_Admission_Predictor.ipynb`
+*   **Graph:** `pollution_model_accuracy.png`
+
 ---
 
 ## Next Steps
