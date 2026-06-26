@@ -1,4 +1,4 @@
-# High School AI & Data Science Portfolio
+# Ritvik Diada - High School AI & Data Science Portfolio
 
 Welcome to my portfolio! I am an incoming high school sophomore based in New Jersey with intermediate proficiency in Python. This repository showcases my ability to apply data engineering, machine learning pipelines, and algorithmic fairness concepts to solve practical, real-world problems.
 
